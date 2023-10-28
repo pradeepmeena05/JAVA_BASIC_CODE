@@ -19,5 +19,12 @@ public class Example {
          int randomNum = (int)(Math.random() * 101);
 
          System.out.println("random number="+randomNum);
+
+        
+         int value=-111;
+
+         System.out.println(Math.abs(value));
+
+         
     }
 }
